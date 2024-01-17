@@ -1,5 +1,5 @@
 #1
-print('hello world')
+print('hi')
 
 #2
 def fib(n):
